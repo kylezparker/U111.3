@@ -78,4 +78,3 @@ def deactivate_user(pk):
 
 
     
-    
